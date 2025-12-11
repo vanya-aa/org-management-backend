@@ -1,0 +1,17 @@
+org-management-backend/
+├── app/
+│   ├── __init__.py
+│   ├── main.py
+│   ├── config.py
+│   ├── database.py
+│   ├── auth.py
+│   ├── jwt_handler.py
+│   ├── models.py
+│   └── routers/
+│       ├── __init__.py
+│       ├── org_routes.py
+│       └── admin_routes.py
+├── .env
+├── .gitignore
+├── requirements.txt
+└── README.md
